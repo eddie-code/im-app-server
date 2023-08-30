@@ -8,11 +8,11 @@
         <version>2.3.2.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.app</groupId>
-    <artifactId>app-service</artifactId>
+    <groupId>com.learn</groupId>
+    <artifactId>im-app-service</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>im-app-server</name>
-    <description>im-app-server</description>
+    <name>im-app-service</name>
+    <description>im-app-service</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
